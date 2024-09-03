@@ -110,6 +110,12 @@ Sources:
 https://www.hostinger.com/tutorials/what-is-php/
 https://www.w3schools.com/PHP/php_intro.asp
 https://www.freecodecamp.org/news/what-is-php-the-php-programming-language-meaning-explained/
+
+## PHP
+PHP is the backend of HTML. You would use PHP for links on your website and to do an actual action. This is connecting your actual link to a web server or whatever it is. This is more of the networking side of things and having external things context to your website.
+
+https://www.w3schools.com/php/php_intro.asp
+
 ## Express.js
 
 
@@ -212,3 +218,5 @@ Saas stands for Software as a Service and is a way for applications to be access
 (Software as a Service) is a software licensing and delivery model in which software is licensed on a subscription basis.
 
 # Btopro
+
+
